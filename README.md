@@ -8,7 +8,7 @@ How often have you been running a little R script, minding your own business, wh
 
 And the whole process stops. You know it's not a huge deal, but it feels like this:
 
-<iframe src="https://giphy.com/embed/1ppRSO8YwlOifaVH9I" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wyeoak-music-video-merge-records-1ppRSO8YwlOifaVH9I">via GIPHY</a></p>
+![](https://media.giphy.com/media/1ppRSO8YwlOifaVH9I/giphy.gif)
 
 This isn't a complete solution for that problem, but it's a fist step.
 
